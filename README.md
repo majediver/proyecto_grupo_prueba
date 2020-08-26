@@ -1,8 +1,4 @@
 # proyecto_grupo_prueba
-
-
-# proyecto_grupo_prueba
-
 __
 
 ## Comenzando Práctica de las herramientas GIT y GITHUB -TALLER DE LENGUAJE DE PROGRAMACIÓN AVANZADO 🚀
