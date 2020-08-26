@@ -1,6 +1,5 @@
 # proyecto_grupo_prueba
 __
-
 ## Comenzando Práctica de las herramientas GIT y GITHUB -TALLER DE LENGUAJE DE PROGRAMACIÓN AVANZADO 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
