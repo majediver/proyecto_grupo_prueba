@@ -2,20 +2,6 @@
 __
 ## Comenzando Práctica de las herramientas GIT y GITHUB -TALLER DE LENGUAJE DE PROGRAMACIÓN AVANZADO 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
-
-_Lo que necesitas para el proyecto_
-
-```
-VsCode.
-Git
-```
-
 ### Instalación 🔧
 
 _Paso 1 Descargar Visual Studio Code_
